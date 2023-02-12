@@ -1,25 +1,36 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+//components
+import DashboardNav from "./components/DashboardNav";
+
+//sides
+import Home from "./sides/Home";
+import About from "./sides/About";
+import Portfolio from './sides/Portfolio';
+import Contact from './sides/Contact';
+import PrivateRoute from './components/PrivateRoute';
+import Downloads from './sides/Download';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <BrowserRouter>
+        <DashboardNav />
+        <div className='content-div'>
+        <Routes className='content-div'>
+          <Route exact path="/" element={<Home />} />
+          <Route exact path="/about" element={<About />} />
+          <Route exact path="/portfolio" element={<Portfolio />} />
+          <Route exact path="/portfolio/:id" element={<Portfolio />} />
+          <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/download" element={<Downloads/>} />
+
+        </Routes>
+        </div>
+        
+      </BrowserRouter>
     </div>
   );
 }
-
 export default App;

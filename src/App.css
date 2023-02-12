@@ -1,5 +1,101 @@
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Titillium WebLight'), local('TitilliumWeb-Light'), url(http://themes.googleusercontent.com/static/fonts/titilliumweb/v2/anMUvcNT0H1YN4FII8wpr24bNCNEoFTpS2BTjF6FB5E.woff) format('woff');
+}
+
+body{
+  background-color: #1d1d1d;
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
+a {
+  color:white;
+  text-decoration: none;
+}
+
 .App {
+
+  font-family: 'Titillium Web', sans-serif;
+  text-align: left;
+  
+}
+.content-div{
+  margin-left:100px;
+}
+.canva{
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  z-index: 100;
+}
+
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 50px;
+  color: white;
+
+}
+h2{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+h3{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+h4{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+  color: white;
+}
+h5{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 10px;
+  color: white;
+}
+h6{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 5px;
+  color: white;
+}
+p{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+.side{
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top:100px;
+}
+
+.cta{
+  width: 100%;
+  height: 50px;
+  background-color:  #107ab0 ;
+  border-radius: 20px;
+  color: white;
+  font-size: 20px;
   text-align: center;
+  padding-top: 10px;
+  
+}
+.cta:hover{
+  background-color: #0e6b9f;
+  cursor: pointer;
+}
+.btn-pri{
+  text-decoration: none;
+  color:white;
+  font-weight: bolder;
 }
 
 .App-logo {
@@ -12,6 +108,8 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +134,11 @@
     transform: rotate(360deg);
   }
 }
+
+@media screen and (max-width: 600px) {
+  body{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+  

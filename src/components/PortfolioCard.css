@@ -1,0 +1,19 @@
+.portfolio.card{
+    width: 500px;
+}
+
+.portfolio-image{
+    width: 500px;
+}
+
+.card-header{
+    color: white;
+    font-size: 25px;
+    width: 500px;
+}
+
+.card-body{
+    color: white;
+    font-size: 20px;
+    width: 500px;
+}

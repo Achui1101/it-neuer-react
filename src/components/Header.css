@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.image-box{
+    width: 100%;
+}
+.image-box img{
+    width: 80%;
+    border-radius: 20px;
+}
+.text-box{
+    width: 80%;
+    align-items: center;
+    text-align: left;
+    color: #ffffff;
+}
+
+.text-box h2{
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+    .header{
+        flex-direction: column;
+    }
+    .image-box{
+        width: 150%;
+    }
+    .image-box img{
+        width: 100%;
+    }
+    .text-box{
+        width: 150%;
+        padding-bottom: 150px;
+    }
+}
+    

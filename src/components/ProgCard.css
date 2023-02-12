@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.card{
+    width: 150px;
+}
+
+.card-img {
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.card-progress {
+    width: 150px;
+    height: 20px;
+    background-color: #910000;
+}
