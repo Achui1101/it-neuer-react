@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/it-neuer-react/static/css/main.2bf5df0e.css",
+    "main.css": "/it-neuer-react/static/css/main.6aeae10d.css",
     "main.js": "/it-neuer-react/static/js/main.b27252fc.js",
     "static/js/787.cda612ba.chunk.js": "/it-neuer-react/static/js/787.cda612ba.chunk.js",
     "static/media/programming.mp4": "/it-neuer-react/static/media/programming.065f7ad02f97269d3ac7.mp4",
@@ -21,12 +21,12 @@
     "static/media/node.png": "/it-neuer-react/static/media/node.175c8e702c4c462c0542.png",
     "static/media/html.png": "/it-neuer-react/static/media/html.f7abe51a0a54a676319d.png",
     "index.html": "/it-neuer-react/index.html",
-    "main.2bf5df0e.css.map": "/it-neuer-react/static/css/main.2bf5df0e.css.map",
+    "main.6aeae10d.css.map": "/it-neuer-react/static/css/main.6aeae10d.css.map",
     "main.b27252fc.js.map": "/it-neuer-react/static/js/main.b27252fc.js.map",
     "787.cda612ba.chunk.js.map": "/it-neuer-react/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bf5df0e.css",
+    "static/css/main.6aeae10d.css",
     "static/js/main.b27252fc.js"
   ]
 }
