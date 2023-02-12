@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Achui1101/it-neuer-react.git/static/css/main.2bf5df0e.css",
+    "main.js": "/Achui1101/it-neuer-react.git/static/js/main.b7c3f9aa.js",
+    "static/js/787.cda612ba.chunk.js": "/Achui1101/it-neuer-react.git/static/js/787.cda612ba.chunk.js",
+    "static/media/programming.mp4": "/Achui1101/it-neuer-react.git/static/media/programming.065f7ad02f97269d3ac7.mp4",
+    "static/media/eco.png": "/Achui1101/it-neuer-react.git/static/media/eco.ab9dbdec82bc68f6cdf0.png",
+    "static/media/phy.mp4": "/Achui1101/it-neuer-react.git/static/media/phy.9871e37f57572a89d8ef.mp4",
+    "static/media/pazza.png": "/Achui1101/it-neuer-react.git/static/media/pazza.f3141ddbb343b3fc3ac7.png",
+    "static/media/robot-cool.mp4": "/Achui1101/it-neuer-react.git/static/media/robot-cool.3d3ae640990a596a794a.mp4",
+    "static/media/program.mp4": "/Achui1101/it-neuer-react.git/static/media/program.50601151dec3cbdcb07a.mp4",
+    "static/media/nina.png": "/Achui1101/it-neuer-react.git/static/media/nina.ba71a4151a886adbe7e8.png",
+    "static/media/school.mp4": "/Achui1101/it-neuer-react.git/static/media/school.ac457b2bc52ef8f0a4ff.mp4",
+    "static/media/robot.mp4": "/Achui1101/it-neuer-react.git/static/media/robot.4518f284bc518e1dd0d0.mp4",
+    "static/media/kuka (1).jpg": "/Achui1101/it-neuer-react.git/static/media/kuka (1).fe87b859024f01047c06.jpg",
+    "static/media/lf.png": "/Achui1101/it-neuer-react.git/static/media/lf.00a0d3cb4f77274380a4.png",
+    "static/media/react.png": "/Achui1101/it-neuer-react.git/static/media/react.6e78a10224cb82e5bdf7.png",
+    "static/media/cs.png": "/Achui1101/it-neuer-react.git/static/media/cs.9072fc4018368a021173.png",
+    "static/media/js.png": "/Achui1101/it-neuer-react.git/static/media/js.dc78526d619394ec4bcf.png",
+    "static/media/css.png": "/Achui1101/it-neuer-react.git/static/media/css.97f06f3cd851015c949f.png",
+    "static/media/node.png": "/Achui1101/it-neuer-react.git/static/media/node.175c8e702c4c462c0542.png",
+    "static/media/html.png": "/Achui1101/it-neuer-react.git/static/media/html.f7abe51a0a54a676319d.png",
+    "index.html": "/Achui1101/it-neuer-react.git/index.html",
+    "main.2bf5df0e.css.map": "/Achui1101/it-neuer-react.git/static/css/main.2bf5df0e.css.map",
+    "main.b7c3f9aa.js.map": "/Achui1101/it-neuer-react.git/static/js/main.b7c3f9aa.js.map",
+    "787.cda612ba.chunk.js.map": "/Achui1101/it-neuer-react.git/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bf5df0e.css",
+    "static/js/main.b7c3f9aa.js"
+  ]
+}
